@@ -11,16 +11,16 @@ body{
     text-align: center;
 }
 
-.div_vermelha{
+.vermelha{
     background-color: brown;
     padding: 100px;
     margin: 10px;
 }
 
-.div_display{
+.display{
     display: flex;
 }
 
-.div_esticar{
-    width: 220px;
+.esticar{
+    padding-bottom: 320px;
 }
