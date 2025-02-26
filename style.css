@@ -15,16 +15,8 @@ body{
     background-color: brown;
     padding: 100px;
     margin: 10px;
-    border: solid;
-    border-color: black;
-    box-sizing: border-box;
 }
 
 .div_display{
     display: flex;
-    background-color: rgb(255, 255, 255);
-}
-
-.div_normal{
-    background-color: rgb(216, 216, 216);
 }
